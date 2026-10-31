@@ -1,0 +1,17 @@
+# Claves y credenciales
+.env
+**/.env
+.env.*
+**/.env.*
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Secretos de Streamlit
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
